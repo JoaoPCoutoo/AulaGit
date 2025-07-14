@@ -1,0 +1,1 @@
+Quado vc já adicionou o repositório remoto, não precisa do -u, mas, se eu colocar, dá problema? testaremos
