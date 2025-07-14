@@ -1,0 +1,1 @@
+Aprendendo as propriedades do Git
